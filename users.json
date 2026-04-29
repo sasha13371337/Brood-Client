@@ -6,5 +6,13 @@
     "RegisteredAt": "2026-04-29 09:49:59",
     "HWID": "70C4782232D4D09A2602EC7D1F5E2C30",
     "LastLoginAt": "2026-04-29 14:28:36"
+  },
+  {
+    "Uid": 2,
+    "Username": "1488",
+    "PasswordHash": "ZtvjSJe1u3pCN4nliuzuJkcv9XsfWqHvW4zsvuPxZMM=",
+    "RegisteredAt": "2026-04-29 14:30:10",
+    "HWID": "70C4782232D4D09A2602EC7D1F5E2C30",
+    "LastLoginAt": "2026-04-29 14:30:10"
   }
 ]
