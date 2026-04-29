@@ -2,11 +2,11 @@
   {
     "Key": "BROODCLIENT-UF1ARX-M61XFJN-2K09CU",
     "Duration": "Lifetime",
-    "IsUsed": false,
-    "UsedByUid": 0,
-    "UsedByUsername": "",
-    "ActivatedAt": "",
-    "ExpiresAt": "",
+    "IsUsed": true,
+    "UsedByUid": 1,
+    "UsedByUsername": "neversuck",
+    "ActivatedAt": "2026-04-29 11:14:39",
+    "ExpiresAt": "Lifetime",
     "CreatedAt": "2026-04-29 11:13:42"
   }
 ]
