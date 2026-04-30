@@ -8,5 +8,15 @@
     "ActivatedAt": "2026-04-29 14:45:51",
     "ExpiresAt": "Lifetime",
     "CreatedAt": "2026-04-29 14:45:35"
+  },
+  {
+    "Key": "BROODCLIENT-ASMJG1-0ASVBNX-MWPRU8",
+    "Duration": "Lifetime",
+    "IsUsed": false,
+    "UsedByUid": 0,
+    "UsedByUsername": "",
+    "ActivatedAt": "",
+    "ExpiresAt": "",
+    "CreatedAt": "2026-04-30 13:58:40"
   }
 ]
