@@ -14,5 +14,13 @@
     "RegisteredAt": "2026-04-29 14:30:10",
     "HWID": "70C4782232D4D09A2602EC7D1F5E2C30",
     "LastLoginAt": "2026-04-29 15:16:09"
+  },
+  {
+    "Uid": 3,
+    "Username": "Vertex",
+    "PasswordHash": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+    "RegisteredAt": "2026-04-30 13:58:14",
+    "HWID": "47DCDA35475AC0FAD0CB60D4A7786D7B",
+    "LastLoginAt": "2026-04-30 13:58:14"
   }
 ]
