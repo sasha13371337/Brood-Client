@@ -18,5 +18,15 @@
     "ActivatedAt": "2026-04-30 13:58:53",
     "ExpiresAt": "Lifetime",
     "CreatedAt": "2026-04-30 13:58:40"
+  },
+  {
+    "Key": "BROODCLIENT-XFJCPG-VTDG0DC-QANBXE",
+    "Duration": "Lifetime",
+    "IsUsed": false,
+    "UsedByUid": 0,
+    "UsedByUsername": "",
+    "ActivatedAt": "",
+    "ExpiresAt": "",
+    "CreatedAt": "2026-04-30 14:32:14"
   }
 ]
