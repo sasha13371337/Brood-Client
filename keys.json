@@ -12,11 +12,11 @@
   {
     "Key": "BROODCLIENT-ASMJG1-0ASVBNX-MWPRU8",
     "Duration": "Lifetime",
-    "IsUsed": false,
-    "UsedByUid": 0,
-    "UsedByUsername": "",
-    "ActivatedAt": "",
-    "ExpiresAt": "",
+    "IsUsed": true,
+    "UsedByUid": 3,
+    "UsedByUsername": "Vertex",
+    "ActivatedAt": "2026-04-30 13:58:53",
+    "ExpiresAt": "Lifetime",
     "CreatedAt": "2026-04-30 13:58:40"
   }
 ]
