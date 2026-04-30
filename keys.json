@@ -22,11 +22,11 @@
   {
     "Key": "BROODCLIENT-XFJCPG-VTDG0DC-QANBXE",
     "Duration": "Lifetime",
-    "IsUsed": false,
-    "UsedByUid": 0,
-    "UsedByUsername": "",
-    "ActivatedAt": "",
-    "ExpiresAt": "",
+    "IsUsed": true,
+    "UsedByUid": 2,
+    "UsedByUsername": "1488",
+    "ActivatedAt": "2026-04-30 14:32:18",
+    "ExpiresAt": "Lifetime",
     "CreatedAt": "2026-04-30 14:32:14"
   }
 ]
