@@ -1,26 +1,26 @@
 [
-    {
-        "HWID": "3F4B3D219E522F7E29A54911D8D2B8D7",
-        "LastLoginAt": "2026-05-06 15:06:30",
-        "PasswordHash": "rC5/SNAom2ny8E3NGPF7P8GHUU/9iCmvrjkgi6LKRmQ=",
-        "RegisteredAt": "2026-04-29 09:49:59",
-        "Uid": 1,
-        "Username": "neversuck"
-    },
-    {
-        "HWID": "66E3ACB4562AE9432E567F235922ECC5",
-        "LastLoginAt": "2026-05-04 19:58:54",
-        "PasswordHash": "ZtvjSJe1u3pCN4nliuzuJkcv9XsfWqHvW4zsvuPxZMM=",
-        "RegisteredAt": "2026-04-29 14:30:10",
-        "Uid": 2,
-        "Username": "1488"
-    },
-    {
-        "HWID": "",
-        "LastLoginAt": "2026-05-02 19:00:58",
-        "PasswordHash": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
-        "RegisteredAt": "2026-04-30 13:58:14",
-        "Uid": 3,
-        "Username": "Vertex"
-    }
+  {
+    "HWID": "3F4B3D219E522F7E29A54911D8D2B8D7",
+    "LastLoginAt": "2026-05-06 15:06:30",
+    "PasswordHash": "rC5/SNAom2ny8E3NGPF7P8GHUU/9iCmvrjkgi6LKRmQ=",
+    "RegisteredAt": "2026-04-29 09:49:59",
+    "Uid": 1,
+    "Username": "neversuck"
+  },
+  {
+    "HWID": "66E3ACB4562AE9432E567F235922ECC5",
+    "LastLoginAt": "2026-05-04 19:58:54",
+    "PasswordHash": "ZtvjSJe1u3pCN4nliuzuJkcv9XsfWqHvW4zsvuPxZMM=",
+    "RegisteredAt": "2026-04-29 14:30:10",
+    "Uid": 2,
+    "Username": "1488"
+  },
+  {
+    "HWID": "",
+    "LastLoginAt": "2026-05-02 19:00:58",
+    "PasswordHash": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+    "RegisteredAt": "2026-04-30 13:58:14",
+    "Uid": 3,
+    "Username": "Vertex"
+  }
 ]
