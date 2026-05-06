@@ -3,8 +3,16 @@
     "Username": "Vertex",
     "Uid": 3,
     "grantedVia": "admin-panel",
-    "duration": "навсегда",
+    "duration": "Ð½Ð°Ð²ÑÐµÐ³Ð´Ð°",
     "activatedAt": "2026-05-06 15:53:44",
+    "expiresAt": "Lifetime"
+  },
+  {
+    "Username": "neversuck",
+    "Uid": 1,
+    "grantedVia": "admin-panel",
+    "duration": "навсегда",
+    "activatedAt": "2026-05-06 16:01:54",
     "expiresAt": "Lifetime"
   }
 ]
