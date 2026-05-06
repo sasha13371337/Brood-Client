@@ -1,18 +1,27 @@
 [
-  {
-    "Username": "1488",
-    "Uid": 2,
-    "grantedVia": "admin-panel",
-    "duration": "Ð½Ð°Ð²ÑÐµÐ³Ð´Ð°",
-    "activatedAt": "2026-05-06 16:26:55",
-    "expiresAt": "Lifetime"
-  },
-  {
-    "Username": "Vertex",
-    "Uid": 3,
-    "grantedVia": "admin-panel",
-    "duration": "Ð½Ð°Ð²ÑÐµÐ³Ð´Ð°",
-    "activatedAt": "2026-05-06 16:26:55",
-    "expiresAt": "Lifetime"
-  }
+    {
+        "Uid": 2,
+        "Username": "1488",
+        "activatedAt": "2026-05-06 16:26:55",
+        "duration": "Ð½Ð°Ð²ÑÐµÐ³Ð´Ð°",
+        "expiresAt": "Lifetime",
+        "grantedVia": "admin-panel"
+    },
+    {
+        "Uid": 3,
+        "Username": "Vertex",
+        "activatedAt": "2026-05-06 16:26:55",
+        "duration": "Ð½Ð°Ð²ÑÐµÐ³Ð´Ð°",
+        "expiresAt": "Lifetime",
+        "grantedVia": "admin-panel"
+    },
+    {
+        "Uid": 1,
+        "Username": "neversuck",
+        "activatedAt": "2026-05-06 16:57:58",
+        "duration": "Lifetime",
+        "expiresAt": "Lifetime",
+        "grantedVia": "key",
+        "key": "BROODCLIENT-8TA91H-JFNC8CB-OEA0K5"
+    }
 ]
