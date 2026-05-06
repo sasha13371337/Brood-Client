@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "Username": "neversuck",
+    "Uid": 1,
+    "grantedVia": "admin-panel",
+    "duration": "навсегда",
+    "activatedAt": "2026-05-06 16:26:55",
+    "expiresAt": "Lifetime"
+  },
+  {
+    "Username": "1488",
+    "Uid": 2,
+    "grantedVia": "admin-panel",
+    "duration": "навсегда",
+    "activatedAt": "2026-05-06 16:26:55",
+    "expiresAt": "Lifetime"
+  },
+  {
+    "Username": "Vertex",
+    "Uid": 3,
+    "grantedVia": "admin-panel",
+    "duration": "навсегда",
+    "activatedAt": "2026-05-06 16:26:55",
+    "expiresAt": "Lifetime"
+  }
+]
